@@ -48,7 +48,7 @@
     "stylelint": "^7.5.0"
   },
   "peerDependencies": {
-    "stylelint": "^7.5.0"
+    "stylelint": "^7.7.0"
   },
   "scripts": {
     "ava": "ava --verbose \"__tests__/**/*.js\"",
